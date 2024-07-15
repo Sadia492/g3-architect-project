@@ -231,6 +231,20 @@ header {
   filter: grayscale(100%);
 }
 /* ------sponsors section ends here---- */
+/* ------footer section starts here---- */
+footer p {
+  font-weight: 400;
+  font-size: 1.25rem;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+footer {
+  max-width: 1440px;
+  margin: 130px auto 216px auto;
+  background-color: #fff4e7;
+}
+/* ------footer section ends here---- */
 /* responsive for smaller devices */
 @media screen and (max-width: 576px) {
   nav,
